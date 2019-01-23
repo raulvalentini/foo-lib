@@ -14,6 +14,10 @@ Next step in application-tester project ReadMe
 
 N.B. in test application module route is added and we can navigate to main_path/child'
 
+
+#SOLVED
+See README file of foo-tester project.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
